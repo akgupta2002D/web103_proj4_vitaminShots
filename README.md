@@ -4,7 +4,7 @@ Submitted by: **Ankit Kumar Gupta**
 
 About this web app: **Lets you create health shots**
 
-Time spent: **5** hours
+Time spent: **10** hours
 
 ## Required Features
 
@@ -34,7 +34,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [x] Visual implementation of the Vitamin SHOT as a bottle. Bottle changes ribbons based on the features.
+- [x] Visual implementation of the Vitamin SHOT as a bottle making it look . Bottle changes ribbons based on the features.
 
 ## Video Walkthrough
 
